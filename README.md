@@ -36,9 +36,9 @@ This app should have some of the following features:
 
 Choose one of the following Libraries to encrypt the user data:
 
-https://github.com/tectiv3/react-native-aes
-https://github.com/marconett/react-native-sha1
-https://github.com/alepop/ed25519-hd-key
+https://github.com/tectiv3/react-native-aes <br>
+https://github.com/marconett/react-native-sha1 <br>
+https://github.com/alepop/ed25519-hd-key <br>
 https://github.com/cossacklabs/themis
 
 
