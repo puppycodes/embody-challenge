@@ -10,7 +10,7 @@
 </p>
 
 
-  <img alt="Embody" longdesc="Embody App iOS" src="assets/mock.jpg" />
+  <img style="width: 200px" alt="Embody" longdesc="Embody App iOS" src="assets/mock.jpg" />
 
 
 
