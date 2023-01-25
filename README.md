@@ -1,4 +1,4 @@
-## Welcome to the Embody React Native Challenge!
+# Welcome to the Embody React Native Challenge!
 
 <p>
   <!-- iOS -->
@@ -14,9 +14,9 @@
 
 
 
-<br><br><br>
+<br>
 
-# Instructions
+## Instructions
 
 In this challenge we ask you use this repo in conjunction with the 
 [Expo Platform](https://expo.dev) to create an **encrypted** scheduling app. 
