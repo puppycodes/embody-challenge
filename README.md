@@ -25,6 +25,8 @@ This app should have **some** of the following features:
 
 - Save a date and time with a personal note
 
+- Remediate security vulnerabilities
+
 - Save a date and time with an image
 
 - Unlock the app with a password, enforcing proper security standards
