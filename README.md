@@ -19,9 +19,9 @@
 ## Instructions
 
 In this challenge we ask you use this repo in conjunction with the 
-[Expo Platform](https://expo.dev) to create an **encrypted** scheduling app. 
+[Expo Platform](https://expo.dev) to create a scheduling app using the calender. 
 
-This app should have some of the following features:
+This app should have **some** of the following features:
 
 - Save a date and time with a personal note
 
@@ -32,14 +32,6 @@ This app should have some of the following features:
 - Save a date and time with the current lunar phase via API
 
 - AA WCAG accessibile Front End interactive experience
-
-
-Choose one of the following Libraries to encrypt the user data:
-
-https://github.com/tectiv3/react-native-aes <br>
-https://github.com/marconett/react-native-sha1 <br>
-https://github.com/alepop/ed25519-hd-key <br>
-https://github.com/cossacklabs/themis
 
 
 
